@@ -19,11 +19,7 @@
 
 ### Моя активность на GitHub
 
-<p align="left">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=peoplemiau1&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br><br>
-  
+
   <!-- Activity Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=peoplemiau1&theme=radical&hide_border=true" alt="GitHub Activity Graph" />
 </p>
